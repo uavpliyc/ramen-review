@@ -1,24 +1,20 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# ramen-review
+ラーメンの投稿と閲覧ができるアプリ。
 
-Things you may want to cover:
+## Dependency
+* Ruby 2.6.3
+* Ruby on Rails 5.2.4
 
-* Ruby version
+## Setup
+セットアップ方法を書く。用意するハードウェアとソフトウェアをセットアップするためのコマンドを記載する
 
-* System dependencies
+## Usage
+ラーメンの投稿をする。ラーメンの参考にする。
 
-* Configuration
+## License
 
-* Database creation
+## Authors
+NK
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## References
